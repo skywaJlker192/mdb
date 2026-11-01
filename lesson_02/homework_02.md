@@ -228,10 +228,10 @@
 | Reporting time zone | ЗАПОЛНИТЬ |
 | Currency | ЗАПОЛНИТЬ |
 | Выбранные бизнес-цели | ЗАПОЛНИТЬ |
-| Stream name | First site |
-| Website URL | https://ffwhw.tb.ru |
-| Stream ID (числовой) | 6443055672 |
-| Measurement ID (`G-…`) | G-99M1QPVYE8 |
+| Stream name | w |
+| Website URL | https://ww-tau-one.vercel.app/ |
+| Stream ID (числовой) | 16247438144 |
+| Measurement ID (`G-…`) | G-03KCR0R7H4 |
 | Enhanced Measurement | включено |
 
 Stream ID и Measurement ID — это разные идентификаторы. На сайт в задании 3
