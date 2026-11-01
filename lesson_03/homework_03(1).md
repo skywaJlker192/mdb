@@ -21,9 +21,9 @@
 | Статус публикации | READY |
 | Analytics Account | mydachyo |
 | Property | Site |
-| Stream name | First site |
+| Stream name | w |
 | Website URL в потоке | https://ww-tau-one.vercel.app/ |
-| Measurement ID (`G-…`) | G-99M1QPVYE8 |
+| Measurement ID (`G-…`) | G-03KCR0R7H4 |
 | Страницы с тегом | `index.html` (Home), `about.html` (About), `contacts.html` (Contacts), по одному тегу на каждой |
 
 Тег ставится на каждую страницу по одному разу: две копии дают двойные
