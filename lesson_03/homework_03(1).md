@@ -17,12 +17,12 @@
 | Поле | Значение |
 |---|---|
 | Адрес репозитория сайта | ЗАПОЛНИТЬ: https://github.com/skywaJlker192/ЗАПОЛНИТЬ-имя-репозитория |
-| Публичный адрес сайта | ЗАПОЛНИТЬ: https://ЗАПОЛНИТЬ.vercel.app |
-| Статус публикации | ЗАПОЛНИТЬ: READY / ERROR |
+| Публичный адрес сайта | https://ww-tau-one.vercel.app/ |
+| Статус публикации | READY |
 | Analytics Account | mydachyo |
 | Property | Site |
 | Stream name | First site |
-| Website URL в потоке | ЗАПОЛНИТЬ: тот же, что публичный адрес сайта |
+| Website URL в потоке | https://ww-tau-one.vercel.app/ |
 | Measurement ID (`G-…`) | G-99M1QPVYE8 |
 | Страницы с тегом | `index.html` (Home), `about.html` (About), `contacts.html` (Contacts), по одному тегу на каждой |
 
@@ -58,7 +58,7 @@
 **Ссылка целиком:**
 
 ```
-https://ЗАПОЛНИТЬ-свой-проект.vercel.app/?utm_source=telegram&utm_medium=social&utm_campaign=ga4_lab
+https://ww-tau-one.vercel.app/?utm_source=telegram&utm_medium=social&utm_campaign=ga4_lab
 ```
 
 | Поле | Значение |
